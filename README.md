@@ -2,7 +2,7 @@
 
 prediction iris flower by deep learning model with pytorch
 
-AI model for prediction heart disease web app (pytorch , flask , python)
+AI model for prediction iris flower web app (pytorch , flask , python)
 # about model 
 - pytorch
 - ANN
@@ -11,7 +11,7 @@ AI model for prediction heart disease web app (pytorch , flask , python)
 - flask
 
 # model predict web page 🤩
-- 13 input
+- 4 input
 - 1 output 😎
 
 ![predict web page](/iris_prediction/images/1.png)  
@@ -22,16 +22,11 @@ AI model for prediction heart disease web app (pytorch , flask , python)
 
 # how run model 😎
 - Download All Requirements
-- run 'python hd_flask.py' in cmd
-- http://127.0.0.1:5000/hdisease open in your browser
+- run 'python iris_flask.py' in cmd
+- http://127.0.0.1:5000/iris open in your browser
 - enter inputs
 - and get predition 😎😉
 
-# CLI Usage
-
-- run 'python main.py'
-- enter 13 input : TYPE DATAFRAME
-- get result
 
 # RUN ipynb IN COLAB
 - go to google colab website
